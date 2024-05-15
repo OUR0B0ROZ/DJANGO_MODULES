@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "30d8813453a554cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7dcc133bd876e7",
+        "type": "tabs",
+        "dimension": 84,
+        "children": [
+          {
+            "id": "6a44f92a98acc1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONCEPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d8a8d5170f8060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB SERVER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ec1ec6ee7d09214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c6f1847b5568d767",
+        "type": "tabs",
+        "dimension": 16,
+        "children": [
+          {
+            "id": "367442eb085ee12d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c931f5ff022f56c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e1c02c5b06f561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5fc2a34a3018aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b061a0cf2d3c48a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bbd511b5f490270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "771a3cbbf675b75f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab327a72725be50b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13be306f70381d8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GITHUB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc6416b56f2abf10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GITHUB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebf0af1fceaa9b96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0911809c1372f8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GITHUB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5ec1ec6ee7d09214",
+  "lastOpenFiles": [
+    "WEB SERVER.md",
+    "GITHUB.md",
+    "VENV EXPLICACION.md",
+    "Pasted image 20240514203357.png",
+    "CONCEPT.md",
+    "Excalidraw/VENV.png",
+    "Excalidraw/Drawing 2024-05-14 18.27.58.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md"
+  ]
+}

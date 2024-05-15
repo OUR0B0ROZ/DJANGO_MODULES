@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "1b86205c39b0757d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8010d833d5f29714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e16d9924e260c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django_Module/GITHUB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "337ca99d36eb1219",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13892a4488231c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b5e9e0bf9871f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79022c4361eaab14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c22ae254ede04ad8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0ee82ef2bf15d2bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8c80445b9eb141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c872dea232ed0b72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django_Module/GITHUB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ad2e4eea6d8b975",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Django_Module/GITHUB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3412938838deec01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69face551f1a24bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Django_Module/GITHUB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e16d9924e260c98",
+  "lastOpenFiles": [
+    "GITHUB INITIATION.md",
+    "Django_Module/WEB SERVER.md",
+    "Django_Module/GITHUB.md",
+    "Django_Module/CONCEPT.md",
+    "Django_Module/CONCEPT 1.md"
+  ]
+}
